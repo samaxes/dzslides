@@ -17,8 +17,8 @@
 
 @Grapes([
     @Grab("org.codehaus.geb:geb-core:0.7.0"),
-    @Grab("org.seleniumhq.selenium:selenium-firefox-driver:2.24.1"),
-    @Grab("org.seleniumhq.selenium:selenium-support:2.24.1")
+    @Grab("org.seleniumhq.selenium:selenium-firefox-driver:2.25.0"),
+    @Grab("org.seleniumhq.selenium:selenium-support:2.25.0")
 ])
 import geb.Browser
 
